@@ -28,7 +28,7 @@ p {
   font-size: 42px;
   font-weight: bold;
   background-color: green;
-  background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+  /* background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%); */
 }
 
 #end-message {
